@@ -48,7 +48,7 @@ msgid "SEARCH FOR"
 msgstr "BUSCAR POR"
 
 msgid "SEARCH"
-msgstr ""
+msgstr "BUSCAR"
 
 msgid "SCRAPING IN PROGRESS"
 msgstr "OBTENCIÓN DE DATOS EN CURSO"
@@ -776,6 +776,3 @@ msgstr "CARGANDO..."
 
 msgid "PLEASE WAIT..."
 msgstr "ESPERA POR FAVOR..."
-
-#~ msgid "Original"
-#~ msgstr "Original"
